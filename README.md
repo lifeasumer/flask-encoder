@@ -15,7 +15,7 @@ A fun and simple Flask-based web app that lets you encode and decode secret mess
 ---
 
 📂 Folder Structure
-
+#
 secret_encoder/
 ├── app.py                  # Flask backend logic
 ├── static/
@@ -23,7 +23,7 @@ secret_encoder/
 │   └── background.jpg      # Background image
 └── templates/
     └── index.html          # HTML frontend
-
+#
 ---
 
 ⚙️ Installation Guide
