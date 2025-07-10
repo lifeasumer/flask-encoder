@@ -1,3 +1,4 @@
+
 🔐 Secret Encoder & Decoder Web App
 
 A fun and simple Flask-based web app that lets you encode and decode secret messages using custom logic. It features a clean UI with a background image, built using Python, Flask, HTML, and CSS.
@@ -15,13 +16,15 @@ A fun and simple Flask-based web app that lets you encode and decode secret mess
 ---
 
 📂 Folder Structure
+
 secret_encoder/
-├── app.py # Flask backend logic
+├── app.py                  # Flask backend logic
 ├── static/
-│ ├── style.css # Custom CSS styles
-│ └── background.jpg # Background image
+│   ├── style.css           # Custom CSS styles
+│   └── background.jpg      # Background image
 └── templates/
-└── index.html # HTML frontend
+    └── index.html          # HTML frontend
+
 ---
 
 ⚙️ Installation Guide
